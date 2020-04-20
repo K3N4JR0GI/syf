@@ -1,0 +1,37 @@
+html
+{
+	background-image: url("spikes.png");
+	background-repeat: inherit;
+}
+h1
+{
+	font-family: 'Major Mono Display', monospace;
+	font-size:50px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	color:white;
+	background-image: url("maze.png");
+	background-repeat: inherit;		
+}
+h2
+{
+	font-family: 'Megrim', cursive;
+	font-size: 20px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	text-align:center;
+	color: #878787;
+}
+article
+{
+	font-family: 'Roboto Mono', monospace;
+}
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
